@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hai Bang Ngo</h1>
 <img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D12AQEPikLouQ2KaA/article-cover_image-shrink_600_2000/0/1603377676332?e=2147483647&v=beta&t=YSgTt9SFO1LMsfDQcp_e0lye0L654ei8LgcBYlIka4k">
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h2 align="center">A passionate frontend developer from VietNam</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React js**
