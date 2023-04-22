@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hai Bang Ngo</h1>
-<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/43504407/140059056-5609753a-bc75-48c7-97f7-decd3e07eca3.png">
+<img align="center" alt="Coding" width="1000" src="https://jobs.commerzbank.com/cust/beesite/images/medialib/05_-_964x602_-_maple_Johannes_-_ComGrow_englisch.png">
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
