@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hai Bang Ngo</h1>
-<img align="center" alt="Coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAC82enZjKfxC77A056eqPIr6aXe4HJRMw_A&usqp=CAU">
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/43504407/140059056-5609753a-bc75-48c7-97f7-decd3e07eca3.png">
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
