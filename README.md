@@ -40,9 +40,6 @@ class HaiBang_Ngo:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangNgoHai&theme=tokyonight&layout=compact&langs_count=6">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangNgoHai&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BangNgoHai&hide_progress=true)](https://github.com/BangNgoHai/github-readme-stats)
-
 ## **Top technologies**
 
 [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
