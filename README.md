@@ -2,6 +2,7 @@
 
 <img align="center" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/C4D12AQEPikLouQ2KaA/article-cover_image-shrink_600_2000/0/1603377676332?e=2147483647&v=beta&t=YSgTt9SFO1LMsfDQcp_e0lye0L654ei8LgcBYlIka4k">
 <h2 align="center">A passionate frontend developer from VietNam</h2>
+
 ```python
 class HaiBang_Ngo:
   def __init__(self):
