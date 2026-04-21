@@ -7,10 +7,10 @@
 class HaiBang_Ngo:
   def __init__(self):
     self.class = 2026
-    self.school = "HTWK 🐘"
+    self.school = "HSH🐘 Hochschule Hannver" 
     self.pronouns = "he/him"
     self.hobbies = ["soccer", "programming", "music", "Youtube"]
-    self.programming_languages = ["Python", "TypeScript", "JavaScript", "Swift"]
+    self.programming_languages = ["JavaScript", "Java", "C/C++"]
 ```
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
