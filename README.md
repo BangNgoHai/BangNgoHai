@@ -15,9 +15,9 @@ class HaiBang_Ngo:
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **React js, Node.js, FULLSTACK MERN WebApplication**
+- 🌱 I’m currently learning **React js, Node.js, FULLSTACK MERN WebApplication, AUTOMATION PROJECT**
 
-- 💬 Ask me about **Html,Css, Js, Web/App Development**
+- 💬 Ask me about **Html,Css, Js, Web/App Development, Python, Java-OOP, C/C++**
 
 - 📫 How to reach me **ngohaibang20012020@gmail.com**
 
