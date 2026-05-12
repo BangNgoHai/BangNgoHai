@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hai Bang Ngo</h1>
 
-<h2 align="center">A passionate frontend developer from VietNam</h2>
+<h2 align="center">A passionate Developer from VietNam</h2>
 
 ```python
 class HaiBang_Ngo:
