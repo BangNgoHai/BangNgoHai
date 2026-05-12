@@ -10,7 +10,7 @@ class HaiBang_Ngo:
     self.school = "HSH🐘 Hochschule Hannver" 
     self.pronouns = "he/him"
     self.hobbies = ["soccer", "programming", "music", "Youtube"]
-    self.programming_languages = ["JavaScript", "Java", "C/C++"]
+    self.programming_languages = ["JavaScript", "Java", "C/C++", "Python"]
 ```
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
